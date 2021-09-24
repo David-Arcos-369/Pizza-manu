@@ -19,6 +19,7 @@
 
 
 # Intro
+React JS using pure CSS, images are linked from Pizza Hut API.
 This project was based on a project created by Amir Soltaani.
 Bootstrapped with React JS, modified to fit my styles, Thank you.
 
