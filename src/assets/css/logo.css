@@ -1,0 +1,10 @@
+.logo-container {
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  width: 150px;
+  height: 150px;
+  border:6px solid #000;
+  object-fit: contain;
+  z-index: 99;
+}

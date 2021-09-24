@@ -1,0 +1,15 @@
+ {/* <Anchor>
+                            <Link href="#" title="Menu" />
+                            <Link href="#drinks" title="Drinks" />
+                            <Link href="#side-dishes" title="Side Dishes" />
+                        </Anchor> */}
+
+                        {/*<ul>
+                             <button class="btn dropdown-toggle link-light fs-5" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                Menu Extras
+                            </button>
+                          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                <li><a class="dropdown-item" href="#drinks">Drinks</a></li>
+                                <li><a class="dropdown-item" href="#side-dishes">Side Dishes</a></li>
+                            </ul>
+                        </ul> */}
