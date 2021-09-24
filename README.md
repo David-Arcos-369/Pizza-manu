@@ -19,7 +19,7 @@ https://i.ibb.co/zmyH4H9/pizza-cover.png
 
 
 This project was based on a project created by Amir Soltaani.
-Created with React JS, modified to fit my styles.
+Bootstrapped with React JS, modified to fit my styles.
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
