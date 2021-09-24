@@ -1,6 +1,6 @@
 # Pizza-Menu
 
-!Pizza-menu (https://i.ibb.co/zmyH4H9/pizza-cover.png)
+![Pizza-menu](https://i.ibb.co/zmyH4H9/pizza-cover.png)
 
 
 
